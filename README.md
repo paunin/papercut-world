@@ -76,7 +76,8 @@ reviewed by hand. The ones showing flags, text, light glows or stray objects
 were regenerated.
 
 The full recipe — the fixed style and composition blocks, the scene
-grammar and example scenes — is in [prompts.md](prompts.md).
+grammar, and the exact prompt behind every image — is in
+[PROMPTS.md](PROMPTS.md).
 
 Scenes for sensitive places show landscape and heritage only: no flags,
 portraits, soldiers, weapons or damaged buildings.
