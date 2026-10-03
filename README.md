@@ -75,6 +75,9 @@ description naming its landmarks, plants and an animal. Every image was
 reviewed by hand. The ones showing flags, text, light glows or stray objects
 were regenerated.
 
+The full recipe — the fixed style and composition blocks, the scene
+grammar and example scenes — is in [prompts.md](prompts.md).
+
 Scenes for sensitive places show landscape and heritage only: no flags,
 portraits, soldiers, weapons or damaged buildings.
 
@@ -83,7 +86,8 @@ one view and not to scale.
 
 ## Licence
 
-[LICENCE] — see `LICENSE`.
+MIT — see [LICENSE](LICENSE). The licence covers the images as well as
+the documentation.
 
 ## Contributing
 
